@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ダイヤモンドデイズ",
+  "base_artist": "SWEET STEADY",
+  "createdAt": "2026-02-07T02:18:39.340525Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダイヤモンドデイズ",
+      "artist": "SWEET STEADY",
+      "has_synced": false,
+      "path": "select/pl_01_ダイヤモンドデイズ_SWEET_STEADY.txt"
+    }
+  ]
+}
